@@ -6,9 +6,9 @@ Transform your AI-generated text into authentic, human-like content with **[Text
 
 ## 🚀 Features
 
-- **Humanize AI Text**: Transform AI-generated text into content that feels natural and seamless, appealing to both readers and detection tools.
-- **Bypass AI Detection**: Ensure your content passes AI detection tools seamlessly.
-- **Undetectable AI**: Make your AI-generated text indistinguishable from human writing.
+- **[Humanize AI Text](https://texthumanizeai.com/)**: Transform AI-generated text into content that feels natural and seamless, appealing to both readers and detection tools.
+- **[Bypass AI Detection](https://texthumanizeai.com/bypass-ai-detection)**: Ensure your content passes AI detection tools seamlessly.
+- **[Undetectable AI](https://texthumanizeai.com/undetectable-ai)**: Make your AI-generated text indistinguishable from human writing.
 - **Bypass GPTZero**: Overcome AI detection to ensure compliance and usability.
 - **AI Text Converter**: Convert AI outputs into professional, human-like text.
 - **API Integration**: Use our powerful API to integrate TextHumanizeAI into your applications.
